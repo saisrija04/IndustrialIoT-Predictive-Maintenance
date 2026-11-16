@@ -1,0 +1,31 @@
+timestamp,temperature,vibration,rpm,operating_hours,health_status,failure_probability,recommendation
+2026-11-17 00:24:39,87.34,4.08,1586.48,6802,CRITICAL,100.0,Stop and inspect the machine before further operation.
+2026-11-17 00:24:49,83.29,5.74,1588.62,2507,WARNING,0.0,Schedule a maintenance inspection.
+2026-11-17 00:25:04,81.81,1.44,1705.06,3771,WARNING,0.0,Schedule a maintenance inspection.
+2026-11-17 00:25:19,66.03,5.83,1666.05,6165,WARNING,0.0,Schedule a maintenance inspection.
+2026-11-17 00:25:24,78.64,5.53,1853.8,5903,CRITICAL,100.0,Stop and inspect the machine before further operation.
+2026-11-17 00:25:39,86.74,4.04,1587.51,3532,CRITICAL,100.0,Stop and inspect the machine before further operation.
+2026-11-17 00:25:44,86.09,4.34,1474.98,4920,CRITICAL,99.0,Stop and inspect the machine before further operation.
+2026-11-17 00:25:49,66.38,6.12,1501.21,4121,CRITICAL,100.0,Stop and inspect the machine before further operation.
+2026-11-17 00:25:59,63.16,4.0,1850.04,4120,CRITICAL,100.0,Stop and inspect the machine before further operation.
+2026-11-17 00:26:04,93.23,6.03,1783.29,7859,CRITICAL,100.0,Stop and inspect the machine before further operation.
+2026-11-17 00:26:14,70.22,3.37,1825.09,7322,CRITICAL,100.0,Stop and inspect the machine before further operation.
+2026-11-17 00:26:19,80.82,3.85,1476.23,9049,WARNING,0.0,Schedule a maintenance inspection.
+2026-11-17 00:26:24,77.96,5.54,1405.2,7788,WARNING,0.0,Schedule a maintenance inspection.
+2026-11-17 00:26:39,92.87,5.78,1573.65,9385,CRITICAL,100.0,Stop and inspect the machine before further operation.
+2026-11-17 00:26:44,63.61,6.33,1525.09,3105,CRITICAL,100.0,Stop and inspect the machine before further operation.
+2026-11-17 00:26:59,86.57,3.86,1664.82,1843,CRITICAL,100.0,Stop and inspect the machine before further operation.
+2026-11-17 00:28:04,78.37,5.98,1598.67,3735,WARNING,2.0,Schedule a maintenance inspection.
+2026-11-17 00:29:09,81.8,6.6,1546.31,7418,CRITICAL,100.0,Stop and inspect the machine before further operation.
+2026-11-17 00:29:19,81.97,4.28,1248.99,6302,WARNING,0.0,Schedule a maintenance inspection.
+2026-11-17 00:29:24,61.08,7.41,1350.94,8529,CRITICAL,100.0,Stop and inspect the machine before further operation.
+2026-11-17 00:29:44,86.29,4.31,1767.83,2403,CRITICAL,100.0,Stop and inspect the machine before further operation.
+2026-11-17 00:29:49,81.61,5.83,1401.86,9842,WARNING,0.0,Schedule a maintenance inspection.
+2026-11-17 00:29:54,81.17,3.61,1380.18,7498,WARNING,0.0,Schedule a maintenance inspection.
+2026-11-17 00:29:59,87.87,3.92,1592.57,9752,CRITICAL,100.0,Stop and inspect the machine before further operation.
+2026-11-17 00:30:04,78.63,5.58,1361.45,1595,WARNING,0.0,Schedule a maintenance inspection.
+2026-11-17 00:31:14,74.9,7.61,1402.61,4659,CRITICAL,100.0,Stop and inspect the machine before further operation.
+2026-11-17 00:31:19,85.93,4.9,1543.74,2466,CRITICAL,100.0,Stop and inspect the machine before further operation.
+2026-11-17 00:31:44,83.9,4.22,1399.38,9647,WARNING,0.0,Schedule a maintenance inspection.
+2026-11-17 00:31:59,60.31,6.16,1360.32,7947,CRITICAL,100.0,Stop and inspect the machine before further operation.
+2026-11-17 00:32:14,86.86,4.81,1200.2,5308,CRITICAL,99.0,Stop and inspect the machine before further operation.
