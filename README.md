@@ -141,3 +141,6 @@ The initial model achieved 99.9% accuracy on the simulated test dataset. This re
 Developed as an academic and portfolio project to explore Industrial IoT, Machine Learning, predictive maintenance and data visualization.
 
 **Note:** Sensor readings are currently simulated. The project is not connected to physical industrial machinery.
+## Dashboard Preview
+
+![Industrial IoT Predictive Maintenance Dashboard](screenshots/dashboard_overview.png)
